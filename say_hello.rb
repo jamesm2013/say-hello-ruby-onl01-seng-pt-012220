@@ -1,3 +1,3 @@
 def greeting
-  put say hello "Gabriel"
+  put say_hello "Gabriel"
 end
